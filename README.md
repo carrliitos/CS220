@@ -1,1 +1,1 @@
-# CS220
+# UWWhitewater - CS220(Intermediate Java)
